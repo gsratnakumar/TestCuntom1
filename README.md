@@ -1,2 +1,2 @@
 # TestCustom1
-For testing purpos
+For testing creating bummy repository
